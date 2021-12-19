@@ -1,4 +1,4 @@
-### Recipe List with React
+# Recipe List with React
 
 ## About
 Cooking With React App is a web app with basic functionality to search, add, edit and remove recipes.
