@@ -13,4 +13,4 @@ State management for:
 
 ## UI ![Scrrenshot](./public/Screenshot.JPG)
 
-### [DEMO](https://61ebe3e9439471c8d7b4af28--reverent-lovelace-861b97.netlify.app/)
+### [DEMO](https://abatra-recipe-list.netlify.app/)
